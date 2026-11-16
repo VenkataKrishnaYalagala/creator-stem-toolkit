@@ -25,6 +25,16 @@ A practical open-source reference shelf for **Venkata Krishna's teaching, educat
 
 These are references, not installed dependencies. Start small on an M1 Mac with 8 GB RAM; large AI video models and simulation stacks need separate evaluation.
 
+## Working copies in this account
+
+| Fork | Upstream | Intended use |
+| --- | --- | --- |
+| [manim](https://github.com/VenkataKrishnaYalagala/manim) | [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | Future educational animation experiments |
+| [whisper.cpp](https://github.com/VenkataKrishnaYalagala/whisper.cpp) | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | Future transcription and subtitle workflows |
+| [skills](https://github.com/VenkataKrishnaYalagala/skills) | [openai/skills](https://github.com/openai/skills) | Review and adapt reusable Codex workflows |
+
+These are upstream forks, with original attribution and licenses retained. They have not been installed or integrated into the learning website.
+
 ## Full directory
 
 The [categorized catalog](docs/github-resource-library.md) covers skills and MCP, coding tools, film and audio, mathematics, websites, learning platforms, local AI, robotics, automation, and development quality. Its last upstream availability check was **15 November 2026**; review current requirements before adopting a tool.

@@ -1,0 +1,138 @@
+# Curated GitHub stars for Krishna's workspace. Verified 2026-11-15.
+# 1 owner/repo per line. Comments and blank lines are ignored.
+# Source: docs/github-resource-library.md
+
+# Agent Skills, curated skills and MCP
+openai/skills
+anthropics/skills
+agentskills/agentskills
+vercel-labs/skills
+google/skills
+mattpocock/skills
+obra/superpowers
+VoltAgent/awesome-agent-skills
+ComposioHQ/awesome-claude-skills
+sickn33/agentic-awesome-skills
+punkpeye/awesome-mcp-servers
+modelcontextprotocol/servers
+mcp-use/mcp-use
+Shubhamsaboo/awesome-llm-apps
+
+# Coding agents and AI application frameworks
+openai/codex
+anthropics/claude-code
+google-gemini/gemini-cli
+browser-use/browser-use
+langchain-ai/langchain
+langchain-ai/langgraph
+crewAIInc/crewAI
+microsoft/autogen
+run-llama/llama_index
+langgenius/dify
+langflow-ai/langflow
+BerriAI/litellm
+
+# Filmmaking, video, VFX and audio workflows
+blender/blender
+FFmpeg/FFmpeg
+obsproject/obs-studio
+remotion-dev/remotion
+mltframework/mlt
+OpenShot/openshot-qt
+KDE/kdenlive
+AcademySoftwareFoundation/OpenColorIO
+opentoonz/opentoonz
+upscayl/upscayl
+yt-dlp/yt-dlp
+Comfy-Org/ComfyUI
+invoke-ai/InvokeAI
+
+# STEM teaching, mathematics and interactive diagrams
+ManimCommunity/manim
+3b1b/manim
+jupyterlab/jupyterlab
+marimo-team/marimo
+sympy/sympy
+numpy/numpy
+scipy/scipy
+pandas-dev/pandas
+matplotlib/matplotlib
+KaTeX/KaTeX
+mathjax/MathJax
+mermaid-js/mermaid
+
+# Website design, drag-and-drop and quality
+vercel/next.js
+vitejs/vite
+tailwindlabs/tailwindcss
+shadcn-ui/ui
+storybookjs/storybook
+microsoft/playwright
+vitest-dev/vitest
+tldraw/tldraw
+excalidraw/excalidraw
+puckeditor/puck
+GrapesJS/grapesjs
+payloadcms/payload
+directus/directus
+
+# Courses, online shops and platform backends
+strapi/strapi
+supabase/supabase
+appwrite/appwrite
+medusajs/medusa
+saleor/saleor
+WordPress/wordpress-develop
+moodle/moodle
+
+# Local AI, transcription and model experimentation
+ollama/ollama
+ggml-org/llama.cpp
+ggml-org/whisper.cpp
+ml-explore/mlx
+ml-explore/mlx-examples
+huggingface/transformers
+huggingface/diffusers
+openai/whisper
+SYSTRAN/faster-whisper
+m-bain/whisperX
+open-webui/open-webui
+vllm-project/vllm
+
+# Robotics, Arduino and hardware projects
+arduino/arduino-cli
+platformio/platformio-core
+espressif/arduino-esp32
+espressif/esp-idf
+ros2/ros2
+gazebosim/gz-sim
+ArduPilot/ardupilot
+PX4/PX4-Autopilot
+opencv/opencv
+ultralytics/ultralytics
+micropython/micropython
+micro-ROS/micro_ros_arduino
+
+# Workflow automation and document processing
+n8n-io/n8n
+activepieces/activepieces
+windmill-labs/windmill
+kestra-io/kestra
+microsoft/markitdown
+docker/compose
+docker/awesome-compose
+public-apis/public-apis
+
+# Engineering quality and security
+github/gitignore
+actions/starter-workflows
+pre-commit/pre-commit
+astral-sh/ruff
+astral-sh/uv
+renovatebot/renovate
+gitleaks/gitleaks
+aquasecurity/trivy
+
+# Career and reference libraries
+ossu/computer-science
+EbookFoundation/free-programming-books

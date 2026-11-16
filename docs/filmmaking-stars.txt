@@ -1,0 +1,59 @@
+# Film, audio, thumbnails, motion graphics, 3D and Adobe developer tools, checked 2026-11-16
+# Star import source (one owner/repo per line); this file does not install software.
+# Existing foundation
+blender/blender
+FFmpeg/FFmpeg
+obsproject/obs-studio
+remotion-dev/remotion
+ManimCommunity/manim
+ggml-org/whisper.cpp
+openai/whisper
+SYSTRAN/faster-whisper
+m-bain/whisperX
+AcademySoftwareFoundation/OpenColorIO
+upscayl/upscayl
+Comfy-Org/ComfyUI
+invoke-ai/InvokeAI
+# Editing and post-production
+WyattBlue/auto-editor
+mifi/lossless-cut
+Zulko/moviepy
+CommandPost/CommandPost
+# Animated titles and reusable motion graphics
+motion-canvas/motion-canvas
+midrender/revideo
+airbnb/lottie-web
+iart-ai/motion-skills
+shadcn-labs/snapcn
+# 3D and Blender assistance
+microsoft/TRELLIS.2
+Tencent-Hunyuan/Hunyuan3D-2
+openai/shap-e
+VAST-AI-Research/TripoSR
+ahujasid/mcp-for-blender
+# AI generated video
+Wan-Video/Wan2.2
+Lightricks/LTX-2
+Lightricks/LTX-Desktop
+modelscope/DiffSynth-Studio
+hpcaitech/Open-Sora
+# Speech cleaning and editing
+Rikorose/DeepFilterNet
+xiph/rnnoise
+resemble-ai/resemble-enhance
+audacity/audacity
+Anjok07/ultimatevocalremovergui
+0xsline/OpenChatCut
+OHF-Voice/piper1-gpl
+# Thumbnails and graphics
+danielgatis/rembg
+ImageMagick/ImageMagick
+lovell/sharp
+KDE/krita
+# VFX tools
+facebookresearch/sam2
+sczhou/ProPainter
+# Adobe official developer examples and research
+AdobeDocs/uxp-premiere-pro-samples
+AdobeDocs/uxp-photoshop-plugin-samples
+adobe-research/EditVerse
